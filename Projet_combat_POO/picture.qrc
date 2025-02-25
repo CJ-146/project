@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>Images/Accueil.jpg</file>
+        <file>Images/arene_difficile.png</file>
+        <file>Images/arene_facile.png</file>
+        <file>Images/arene_moyen.png</file>
+        <file>Images/boss.jpg</file>
+        <file>Images/chavalier.png</file>
+        <file>Images/com1_dif.png</file>
+        <file>Images/com1_fac.png</file>
+        <file>Images/com1_moy.png</file>
+        <file>Images/com2_dif.png</file>
+        <file>Images/com2_fac.png</file>
+        <file>Images/com2_moy.png</file>
+        <file>Images/com3_dif.png</file>
+        <file>Images/com3_fac.png</file>
+        <file>Images/com3_moy.png</file>
+        <file>Images/com4_dif.png</file>
+        <file>Images/com4_fac.png</file>
+        <file>Images/com4_moy.png</file>
+        <file>Images/Marchand.png</file>
+        <file>Images/start.png</file>
+        <file>Images/triple_portail.jpg</file>
+        <file>Images/You_died.jpg</file>
+        <file>Images/You_win.jpg</file>
+    </qresource>
+</RCC>
